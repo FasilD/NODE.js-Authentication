@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_authenitication",
+  "version": "1.0.0",
+  "description": "Security",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FasilD/NODE.js-Authentication.git"
+  },
+  "keywords": [
+    "fasil"
+  ],
+  "author": "fasil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FasilD/NODE.js-Authentication/issues"
+  },
+  "homepage": "https://github.com/FasilD/NODE.js-Authentication#readme"
+}
